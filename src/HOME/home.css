@@ -196,12 +196,12 @@ body {
 
 @media(max-width:450px){
   .home-profile{
-    margin-top: 80px;
+    margin-top: 60px;
   }
   .profile-pic img{
     width:280px;
     height:290px;
-    margin-bottom:12px;
+    margin-bottom:20px;
   }
 
   .profile-info h1{

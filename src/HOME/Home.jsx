@@ -41,7 +41,7 @@ function Home() {
     <div className={`profile-info $ {slideIn ? 'slideIn' : ''}`}>
       <h1>FRONT-END REACT DEVLOPER <span className="wave">👋</span></h1>
       <p>Hi, I'm Alazar Fikadu. A passionate Front-end React 
-        Developer based in Addis Ababa, Ethiopia.🌍</p>
+        Developer based in Addis Ababa, Ethiopia.🌍.</p>
      <img src="git.png" alt="git" />
      <img src="linked.png" alt="linked" />
     </div>

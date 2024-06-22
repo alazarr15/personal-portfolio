@@ -195,9 +195,13 @@ body {
 }
 
 @media(max-width:450px){
+  .home-profile{
+    margin-top: 80px;
+  }
   .profile-pic img{
     width:280px;
     height:290px;
+    margin-bottom:12px;
   }
 
   .profile-info h1{

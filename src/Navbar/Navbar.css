@@ -10,6 +10,7 @@
     height: 120px;
     align-items: center;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+    border-bottom: white;
     overflow: hidden;
     position: relative;
   }

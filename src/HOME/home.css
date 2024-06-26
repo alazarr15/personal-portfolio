@@ -8,7 +8,6 @@
 body {
   overflow-x: hidden;
   animation: fade-in 5s ease-in-out;
-  background-color: #f4f1de;
   color: #000000;
 }
 
